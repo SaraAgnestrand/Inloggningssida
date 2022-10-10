@@ -80,7 +80,6 @@ function login() {
     }
 
 //Function to check if userName and secretCode is correct.If inputName=userName och inputCode=secretCode,true/false?
-
 function checkCodes(){
 
     let userName = inputName.value;
